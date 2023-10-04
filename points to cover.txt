@@ -1,0 +1,14 @@
+-HTTP Protocol
+-Response Status Code
+-Spring AOP
+-SpEL
+-spring data jpa
+-Security
+	-session fixation,...
+-Jpa relation
+-Global exception handling
+-write  Junit test case
+-integration testing
+-Mock testing
+-@transactional
+-Microservices
